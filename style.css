@@ -1,8 +1,12 @@
 table {
   border: 1px solid black;
   width: 75%;
+  margin: 25px;
 }
 
+th,
+tr,
 td {
-  border: 1px;
+  border: 1px solid;
+  text-align: center;
 }
