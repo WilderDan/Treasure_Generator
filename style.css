@@ -2,6 +2,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: black;
+  color: #44D62C;
 }
 
 table {
